@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Salman\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Salman\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_DiningPhilosopherUsingActorModel.658447013.00" t="ExcludeRecursive" />
+    <e p="E:\Repository\DiningPhilosopherUsingActorModel" t="IncludeFlat">
+      <e p="DiningPhilosopherUsingActorModel" t="IncludeRecursive">
+        <e p="app.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Constants.cs" t="Include" />
+        <e p="DiningPhilosopherUsingActorModel.csproj" t="IncludeRecursive" />
+        <e p="Fork.cs" t="Include" />
+        <e p="MonitorActor.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="DiningPhilosopherUsingActorModel.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Philosopher.cs" t="Include" />
+        <e p="PhilosopherStatus.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="DiningPhilosopherUsingActorModel.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

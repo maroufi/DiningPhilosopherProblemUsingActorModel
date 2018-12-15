@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "E:\\Repository\\DiningPhilosopherUsingActorModel\\DiningPhilosopherUsingActorModel\\DiningPhilosopherUsingActorModel.csproj",
+    "projectName": "DiningPhilosopherUsingActorModel",
+    "projectPath": "E:\\Repository\\DiningPhilosopherUsingActorModel\\DiningPhilosopherUsingActorModel\\DiningPhilosopherUsingActorModel.csproj",
+    "outputPath": "E:\\Repository\\DiningPhilosopherUsingActorModel\\DiningPhilosopherUsingActorModel\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Akka": {
+          "target": "Package",
+          "version": "[1.3.10, )"
+        },
+        "Akka.Serialization.Hyperion": {
+          "target": "Package",
+          "version": "[1.3.10-beta, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
